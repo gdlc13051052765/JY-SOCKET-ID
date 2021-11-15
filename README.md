@@ -1,0 +1,2 @@
+# JY-SOCKET-ID
+金誉老设备ID
